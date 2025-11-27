@@ -9,3 +9,5 @@ Ce repository contient plusieurs branches avec du code pré-écrit.
 - résolution de conflits
 - tags
 - historique propre
+
+Utilisez la commande '''go mod init main''' pour installer les modules suplementaires.
