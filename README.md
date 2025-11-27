@@ -10,4 +10,4 @@ Ce repository contient plusieurs branches avec du code pré-écrit.
 - tags
 - historique propre
 
-Utilisez la commande '''go mod init main''' pour installer les modules suplementaires.
+Utilisez la commande ```go mod init main``` pour installer les modules suplementaires.
