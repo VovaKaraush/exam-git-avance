@@ -1,13 +1,3 @@
-# Campus Library — Examen Git
+Ce repo comporte un serveur web intialisé avec du golang presentant 3 livres.
 
-Ce repository contient plusieurs branches avec du code pré-écrit.
-
-🎯 Votre objectif : reconstruire le projet final en utilisant **exclusivement Git** :
-- fork
-- pull requests
-- merges
-- résolution de conflits
-- tags
-- historique propre
-
-Utilisez la commande '''go mod init main''' pour installer les modules suplementaires.
+Utilisez la commande '''go mod init main''' et '''go mod init main''' pour installer les modules suplementaires permettant le bon lancement du serveur.
